@@ -1,0 +1,19 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Настройки PyCharm
+.idea/
+
+# Тестовые отчеты и логи
+.pytest_cache/
+allure-results/
+allure-report/
+*.log
+
+# Переменные окружения
+.env
